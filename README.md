@@ -1,4 +1,4 @@
-### Sports Store Data Analysis Project 
+# Sports Store Data Analysis Project 
 
 ## Overview
 
@@ -10,19 +10,19 @@ This project follows the guidance and teachings of Chris French, a data analytic
 
 ## Project Components
 
-# Excel
+### Excel
 
 In the initial phase of the project, we harnessed the power of Microsoft Excel to prepare and preprocess the raw data. We diligently cleaned, structured, and reshaped the data, ensuring that it was well-prepared for in-depth analysis.
 
-# SQL
+### SQL
 
 The second part of the project involved the utilization of SQL to process and analyze the refined data. SQL allowed us to perform complex queries and operations, extracting valuable insights from the dataset.
 
-# Tableau
+### Tableau
 
 The final and most exciting segment of our project was the visualization of the insights and trends identified through SQL analysis. We created interactive dashboards using Tableau, providing a visual representation of the data's story.
 
-# Tableau Dashboards
+### Tableau Dashboards
 
 You can explore the interactive Tableau dashboards, showcasing our findings, by following this link: [Sports Store Data Analysis Dashboards](https://public.tableau.com/app/profile/buse.g.sger/viz/OnlineSportsStoreDashboard/RatingsDashboard)
 
